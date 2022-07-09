@@ -2,7 +2,7 @@
 
 # configs
 AUUID=dea47708-6dfe-4e8f-9fda-e86dc6692068
-CADDYIndexPage=https://github.com/StartBootstrap/startbootstrap-new-age/archive/master.zip
+CADDYIndexPage=https://github.com/flexdinesh/dev-landing-page/archive/master.zip
 CONFIGCADDY=https://raw.githubusercontent.com/soloes/ruiovg/master/etc/Caddyfile
 CONFIGXRAY=https://raw.githubusercontent.com/soloes/ruiovg/master/etc/wry.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
